@@ -13,7 +13,7 @@ Modern laptops completely rely on native Windows Precision Touchpad drivers, tha
 Download and run MomentumTouchPad.exe from the **Releases** section
 
 ## Configuration
-Click MomentumTouchPad.exe (or start menu shortcut) once, the program starts and runs completly in background. Click it once more, the settings gui opens.
+Click MomentumTouchPad.exe (or start menu shortcut) once, the program starts and runs completly in background. Click it once more, the settings menu opens.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
